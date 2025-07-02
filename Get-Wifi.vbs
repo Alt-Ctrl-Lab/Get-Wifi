@@ -17,7 +17,7 @@ Set objExec=objShell.Exec(command)
 ' Heading
 objFile.Writeline "                Get-Wifi                     "
 objFile.Writeline "============================================="
-objFile.Writeline "                                   -TEdtr    "
+objFile.Writeline "                               - Alt-Ctrl-Lab "
 
 ' Output Wi-Fi name and password 
 Do While Not objExec.StdOut.AtEndOfStream
@@ -45,4 +45,4 @@ Set objExec = Nothing
 Set objFile = Nothing
 
 
-'-TEdtr
+'- Alt-Ctrl-Lab
