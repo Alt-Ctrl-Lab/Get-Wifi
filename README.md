@@ -17,9 +17,10 @@
 <p><strong>Tested on:</strong>
   <br>🔹Windows </p>
 
-<h3>Caution: </h3>
+<h3>Note: </h3>
 <p> It is designed only for retrieving already connected wifi detail.
 </p><br>
+<h3>Caution: </h3>
 <p>Don't use this script in illegal activities, the author or TEdtr is not responsible for it !.</p>
 
 </body>
